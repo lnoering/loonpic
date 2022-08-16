@@ -12,6 +12,21 @@ lang: en
 url: 'https://loonpic.github.io/'
 
 
+github:
+  username: lnoering             # change to your github username
+
+# The CDN endpoint for images.
+# Notice that once it is assigned, the CDN url
+# will be added to all image (site avatar & posts' images) paths starting with '/'
+#
+# e.g. 'https://cdn.com'
+# https://raw.githubusercontent.com/lnoering/lnoering.github.io/master
+img_cdn: ''
+
+# the avatar on sidebar, support local or CORS resources
+avatar: ''
+
+
 include: ["_pages"]
 permalink: /:title/
 
