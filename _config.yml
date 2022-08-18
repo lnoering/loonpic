@@ -3,13 +3,13 @@ name: 'Loonpic'
 description: 'Loonpic Project'
 logo: 'assets/images/logo/F0001_logo.png'
 favicon: 'assets/images/favicon/favicon.ico'
-baseurl: ''
+baseurl: '/loonpic.github.io'
 avatar: 'assets/images/avatar/F0001_avatar.png'
 disqus: 'Photograph / Filmaker'
 email: 'lnoering@gmail.com'
 timezone: America/Sao_Paulo
 lang: en
-url: 'https://loonpic.github.io/'
+# url: 'https://loonpic.github.io'
 
 
 github:
