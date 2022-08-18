@@ -1,10 +1,10 @@
 # Site
 name: 'Loonpic'
 description: 'Loonpic Project'
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+logo: 'assets/images/logo/F0001_logo.png'
+favicon: 'assets/images/favicon/favicon.ico'
 baseurl: ''
-avatar: 'assets/images/sal.jpg'
+avatar: 'assets/images/avatar/F0001_avatar.png'
 disqus: 'Photograph / Filmaker'
 email: 'lnoering@gmail.com'
 timezone: America/Sao_Paulo
